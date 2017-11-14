@@ -9,6 +9,7 @@ public abstract class AbstractClass1 {
 	public void concmethod()
 	{
 		System.out.println("Extracting cocnmethod using abstract class");
+		System.out.println("Github message");
 	}
 	
 
